@@ -105,10 +105,13 @@ grammar_cjkRuby: true
 还有就是尽量考虑适应新的布局,方便修改以及维护,如我在文中使用的浮动,最后调整两个浮动中间宽度的时候只需要嵌套一个`div`即可
 
 ---
-相应的代码一Git到码云,欢迎下载
+相应的代码以上传,欢迎下载
+[Github][6]
+
 
   [1]: http://ofyep4zkc.bkt.clouddn.com/QQ20170702004225.png "QQ20170702004225.png"
   [2]: http://ofyep4zkc.bkt.clouddn.com/QQ20170702005240.png "QQ20170702005240.png"
   [3]: http://ofyep4zkc.bkt.clouddn.com/QQ20170702011202.png "QQ20170702011202.png"
   [4]: http://ofyep4zkc.bkt.clouddn.com/QQ20170702012539.png
   [5]: http://ofyep4zkc.bkt.clouddn.com/QQ20170702013351.png "QQ20170702013351.png"
+  [6]: https://github.com/diyhome/HTML-CSS_float
